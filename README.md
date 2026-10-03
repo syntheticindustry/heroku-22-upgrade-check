@@ -12,6 +12,8 @@ If your Heroku app says its `heroku-22` stack is deprecated, start by checking t
 
 For an owner-first explanation and a fuller message to forward, see [our Heroku-22 guide](https://syntheticindustry.ai/heroku-22/).
 
+If you would rather leave Heroku, [our £995 move-off-Heroku offer](https://syntheticindustry.ai/move-off-heroku/) covers one eligible Rails web app and Heroku Postgres database moving to your own Render account; we have not yet moved a production app, and eligibility conditions apply (including a safe source-code handoff and your own staging check).
+
 ## For the person with the code: run the local preflight
 
 Requires Node.js 18+ on **your own computer**. No packages to install, Heroku account or credentials needed. The script reads `Gemfile.lock`, `.ruby-version`, `package.json`, `Procfile` and `app.json` in the directory you specify; it refuses symbolic links for those files. It makes no network calls, runs no app code and changes no files. Read the script before using it on private code. It doesn't read `.env` or Heroku config vars and prints no `app.json` environment values.
