@@ -12,7 +12,9 @@ If your Heroku app says its `heroku-22` stack is deprecated, start by checking t
 
 For an owner-first explanation and a fuller message to forward, see [our Heroku-22 guide](https://syntheticindustry.ai/heroku-22/).
 
-If you would rather leave Heroku, [our £995 move-off-Heroku offer](https://syntheticindustry.ai/move-off-heroku/) covers one eligible Rails web app and Heroku Postgres database moving to your own Render account; we have not yet moved a production app, and eligibility conditions apply (including a safe source-code handoff and your own staging check).
+## Need a defined piece of work?
+
+[Browse our software outcomes](https://syntheticindustry.ai/services/) for scope, inputs and enquiry terms, or [ask us about your application](mailto:hello@syntheticindustry.ai?subject=Heroku-22%20companion%20enquiry&body=SI-Outcome%3A%20custom%0ASI-Mode%3A%20general%0ASI-Page%3A%20https%3A%2F%2Fgithub.com%2Fsyntheticindustry%2Fheroku-22-upgrade-check%0ASI-Ref%3A%20github-heroku-22-companion-declared%0A%0AName%3A%20%0AWhat%20you%20need%3A%20%0AContext%20link%3A%20%0ATiming%3A%20). Describe what you need accomplished and which software is involved. This starts an enquiry, not an order or a promise that your app is eligible. Please do not send passwords, credentials, confidential code or customer data in a first message.
 
 ## For the person with the code: run the local preflight
 
